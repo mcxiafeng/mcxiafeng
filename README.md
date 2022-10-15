@@ -1,5 +1,6 @@
 <div align="contain">
-你好！我是 <b>MC_xiafeng_233</b> 欢迎您打开我的主页！</h2>
+你好！这里是 <b>MC_xiafeng_233（夏枫）</b>欢迎您打开我的主页！</h2>
+
 
 <h3> 我的信息 </h3>
   <img src="https://img.shields.io/badge/QQ-2821097371-red"></a>&emsp;
@@ -7,11 +8,11 @@
   
 <h3> 个人介绍 </h3>
 
-- ⚡ 我是一个学生
-- ⚡ 平常主要活跃在B站以及QQ群内
-- ⚡ 有时候自己也会去写写Bukkit插件，偶尔接单
-- ⚡ 擅长于MC的1.8小游戏领域
-- ⚡ 喜欢Furry，同时自己也是一只小动物，希望可以扩列到更多的小动物
+- 📚 我是一个学生
+- 📶 平常主要活跃在B站以及QQ群内
+- 🖊️ 有时候自己也会去写写Bukkit插件，偶尔接单
+- 🗡️ 擅长于MC的1.8小游戏领域
+- 🐈 喜欢Furry，同时自己也是一只小动物，希望可以扩列到更多的小动物
   
 </div>
    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=mcxiafeng&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fff,fff&theme=graywhite" />

@@ -4,7 +4,6 @@
 <h3> 我的信息 </h3>
   <img src="https://img.shields.io/badge/QQ-2821097371-red"></a>&emsp;
   <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
-  <img src="https://visitor-badge.glitch.me/badge?page_id=mcxiafeng" alt="访客统计" />&emsp;
   
 <h3> 个人介绍 </h3>
 
